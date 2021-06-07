@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+#marqueeStyle {
+    background-color: aquamarine;
+}
+
+#video {
+    height: 500px;
+    width: 100%;
+    border: 40px;
+    border-color: crimson;
+}
+#map iframe{
+    width: 50%;
+}
